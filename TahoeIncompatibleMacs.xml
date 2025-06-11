@@ -375,6 +375,13 @@
       <search_type>is not</search_type>
       <value>MacPro7,1</value>
     </criterion>
+    <criterion>
+      <name>Model Identifier</name>
+      <priority>52</priority>
+      <and_or>and</and_or>
+      <search_type>is not</search_type>
+      <value>MacBookPro16,4</value>
+    </criterion>
   </criteria>
   <computers/>
 </computer_group>
