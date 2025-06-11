@@ -3,7 +3,7 @@
   <name>Macs Incompatible with macOS Tahoe</name>
   <is_smart>true</is_smart>
   <criteria>
-    <size>53</size>
+    <size>54</size>
     <criterion>
       <name>Model Identifier</name>
       <priority>0</priority>
@@ -377,7 +377,7 @@
     </criterion>
     <criterion>
       <name>Model Identifier</name>
-      <priority>52</priority>
+      <priority>53</priority>
       <and_or>and</and_or>
       <search_type>is not</search_type>
       <value>MacBookPro16,4</value>
