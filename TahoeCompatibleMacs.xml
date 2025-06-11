@@ -3,7 +3,7 @@
   <name>Macs Compatible with macOS Tahoe</name>
   <is_smart>true</is_smart>
   <criteria>
-    <size>53</size>
+    <size>54</size>
     <criterion>
       <name>Model Identifier</name>
       <priority>0</priority>
@@ -374,6 +374,13 @@
       <and_or>or</and_or>
       <search_type>is</search_type>
       <value>MacPro7,1</value>
+    </criterion>
+    <criterion>
+      <name>Model Identifier</name>
+      <priority>53</priority>
+      <and_or>or</and_or>
+      <search_type>is</search_type>
+      <value>MacBookPro16,4</value>
     </criterion>
   </criteria>
   <computers/>
